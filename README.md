@@ -23,7 +23,7 @@ I'm Nicolás Arancibia, a 22-year-old student in the [Computer Science Departmen
 [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoaranc&theme=algolia&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/nicoaranc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoaranc&hide=makefile,shell,Batchfile,Assembly,jupyter%20notebook,GDB&langs_count=10&theme=algolia&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/nicoaranc/github-readme-stats)
 
 ## Tools
 
