@@ -2,7 +2,7 @@
 
 ##  About Me 
 
-I'm Nicolás Arancibia, a 22-year-old student in the [Computer Science Department](https://www.dcc.uchile.cl/) at [University of Chile](https://uchile.cl/) ([FCFM](https://ingenieria.uchile.cl/))
+I'm Nicolás Arancibia, a 23-year-old student in the [Computer Science Department](https://www.dcc.uchile.cl/) at [University of Chile](https://uchile.cl/) ([FCFM](https://ingenieria.uchile.cl/))
 
 ## My top interested topics
 
